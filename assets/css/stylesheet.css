@@ -11,8 +11,8 @@
 
 :root {
     /* =============================font-sizes======================= */
-    --fs-3xl: 157px;
-    --fs-2xl: 80px;
+    --fs-3xl: 145px;
+    --fs-2xl: 84px;
     --fs-xl: 48px;
     --fs-lg: 28px;
     --fs-md: 24px;
@@ -76,15 +76,6 @@
 .h_100_vh {
     height: 100vh;
 }
-
-
-
-
-
-
-
-
-
 
 .bg_image {
     background-image: url('../images/png/Rectangle\ 4379.png');
